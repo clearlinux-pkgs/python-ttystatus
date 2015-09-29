@@ -4,7 +4,7 @@
 #
 Name     : python-ttystatus
 Version  : 0.23.orig
-Release  : 3
+Release  : 4
 URL      : http://code.liw.fi/debian/pool/main/p/python-ttystatus/python-ttystatus_0.23.orig.tar.gz
 Source0  : http://code.liw.fi/debian/pool/main/p/python-ttystatus/python-ttystatus_0.23.orig.tar.gz
 Summary  : No detailed summary available
